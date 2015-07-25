@@ -3,7 +3,7 @@ Arduino code for displaying animation on OLED display using u8glib
 
 The information on how to use and other stuff will be published on the below URL
 
-http://www.h4hacks.com
+http://www.h4hacks.com/2015/07/display-animation-on-oled-using-arduino.html
 
 
 Copyright (c) Mohesh Mohan (h4hacks.com).
